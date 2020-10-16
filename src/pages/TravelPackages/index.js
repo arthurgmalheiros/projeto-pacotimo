@@ -34,6 +34,7 @@ const TravelPackages = ({ getPackagesRequest }) => {
               return value;
             }
           }
+          return false;
         });
         setPackages(filtered);
       } else setPackages(pckg);
