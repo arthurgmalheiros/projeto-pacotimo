@@ -1,12 +1,8 @@
 # Notas de desenvolvimento da aplicação
-Este repositório trata-se de um teste técnico feito para a empresa 123Milhas, onde foi desenvolvido uma aplicação em JavaScript com [React JS](https://reactjs.org/) que é capaz de montar os pacotes, listar e filtrar os dados recebidos pela api.
-
-## Pontos notáveis
-Fiz algumas adaptações ao layout para manter a paleta de cores da logomarca, ficando mais agradável aos olhos do usuário.
+Este repositório trata-se de um teste técnico feito para a empresa 123Milhas, onde foi desenvolvido uma aplicação em JavaScript e React com o objetiov de buscar informações das API'S fornecidas e atraves de um processmento interno disponibilisar para o usuário os pacotes de viagens acessiveis a ele.
 
 ## Pontos de Melhoria do desenvolvimento
-Testes unitários poderiam ser inclusos para o funcionamento da aplicação em um ambiente de produção futuramente.
-Também optei por não utilizar nenhuma framework para estilização dos componentes por ser apenas uma tela utilizada na navegação do app.
+O layout pode ser melhor trabalhado usando estilização especifica nos componentes, e o projeto pode ser mais modularizado facilitando mais o entendimento do código.
 
 ## Configuração de projeto
 ### Pré-requisitos
